@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1583939157287,
+  "timestamp": 1583945147804,
   "index": "/wordaday/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/wordaday/favicon.ico",
         "/wordaday/index.html",
-        "/wordaday/main-es2015.37d5a89d9a775c28acc5.js",
-        "/wordaday/main-es5.37d5a89d9a775c28acc5.js",
+        "/wordaday/main-es2015.3011cafa9ee7a2a289fa.js",
+        "/wordaday/main-es5.3011cafa9ee7a2a289fa.js",
         "/wordaday/manifest.webmanifest",
         "/wordaday/polyfills-es2015.442fa3cc45520cc0d518.js",
         "/wordaday/polyfills-es5.fd3af48698f9b02947d9.js",
@@ -52,9 +52,9 @@
     "/wordaday/assets/icons/icon-72x72.png": "0318d2c960668327bd66f2043ca800b7a28be60f",
     "/wordaday/assets/icons/icon-96x96.png": "2cc428be61a088ee96d4718adbd120bb494acb4c",
     "/wordaday/favicon.ico": "7c60c8d274ece52f3c6f28feec313e31d387e411",
-    "/wordaday/index.html": "0594fe3cba806dde5b81fd2b64f45c87e6908fd4",
-    "/wordaday/main-es2015.37d5a89d9a775c28acc5.js": "d40c07a64ff6ab400ce8b94dac4d6777c61cf434",
-    "/wordaday/main-es5.37d5a89d9a775c28acc5.js": "4149094ef630b9e29ba75e956ef94160fc465075",
+    "/wordaday/index.html": "2aa6b22cb1eee688c4ff9c816b76f0ef20300a38",
+    "/wordaday/main-es2015.3011cafa9ee7a2a289fa.js": "ac12074f50000dea7b800e4befa9dda9ca9d3b64",
+    "/wordaday/main-es5.3011cafa9ee7a2a289fa.js": "62da4cb24243e41ab963b57295b9b09535e1e0b4",
     "/wordaday/manifest.webmanifest": "c02395d4880ee2aeb01e065f3033ba3462475fa4",
     "/wordaday/polyfills-es2015.442fa3cc45520cc0d518.js": "8779ed8d9bf0580e1b50b352a9b8fd520be24433",
     "/wordaday/polyfills-es5.fd3af48698f9b02947d9.js": "29c3dfd16faa921dd49165f318f9eed12a2f3be7",
