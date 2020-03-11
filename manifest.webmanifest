@@ -1,7 +1,7 @@
 {
-  "name": "ngwordapp",
-  "short_name": "ngwordapp",
-  "theme_color": "#1976d2",
+  "name": "Word A Day",
+  "short_name": "Vocabulary",
+  "theme_color": "#aa00ff",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
