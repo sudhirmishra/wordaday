@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1583945147804,
+  "timestamp": 1583945633883,
   "index": "/wordaday/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "/wordaday/assets/icons/icon-72x72.png": "0318d2c960668327bd66f2043ca800b7a28be60f",
     "/wordaday/assets/icons/icon-96x96.png": "2cc428be61a088ee96d4718adbd120bb494acb4c",
     "/wordaday/favicon.ico": "7c60c8d274ece52f3c6f28feec313e31d387e411",
-    "/wordaday/index.html": "2aa6b22cb1eee688c4ff9c816b76f0ef20300a38",
+    "/wordaday/index.html": "a0aa06c44f3989245684a5b508c137aecf0c24fa",
     "/wordaday/main-es2015.3011cafa9ee7a2a289fa.js": "ac12074f50000dea7b800e4befa9dda9ca9d3b64",
     "/wordaday/main-es5.3011cafa9ee7a2a289fa.js": "62da4cb24243e41ab963b57295b9b09535e1e0b4",
     "/wordaday/manifest.webmanifest": "c02395d4880ee2aeb01e065f3033ba3462475fa4",
