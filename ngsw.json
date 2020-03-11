@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1583936097455,
+  "timestamp": 1583938177472,
   "index": "/wordaday/index.html",
   "assetGroups": [
     {
@@ -43,16 +43,16 @@
   "dataGroups": [],
   "hashTable": {
     "/wordaday/assets/data.json": "7e73b2abbd4736f28c9b891927a0f88a771d1696",
-    "/wordaday/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/wordaday/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/wordaday/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/wordaday/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/wordaday/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/wordaday/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/wordaday/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/wordaday/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/wordaday/assets/icons/icon-128x128.png": "474d52e1b3ab098c5a9874745a3ff2f75e3b617c",
+    "/wordaday/assets/icons/icon-144x144.png": "d6fa566525da8c274d4f80ba33faef651ac907be",
+    "/wordaday/assets/icons/icon-152x152.png": "3e04bcc8ef7b98191af7c7fc158843b6e8f8c174",
+    "/wordaday/assets/icons/icon-192x192.png": "cca3ac54d23ed95d80b62e5504b42a6f45bea823",
+    "/wordaday/assets/icons/icon-384x384.png": "5a570fd08d3a20c0ea478dbd49b722421e983d57",
+    "/wordaday/assets/icons/icon-512x512.png": "d48547928c9ccfc1c1745aa51c7f198771a22107",
+    "/wordaday/assets/icons/icon-72x72.png": "0318d2c960668327bd66f2043ca800b7a28be60f",
+    "/wordaday/assets/icons/icon-96x96.png": "2cc428be61a088ee96d4718adbd120bb494acb4c",
     "/wordaday/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/wordaday/index.html": "2890479fdb394dcbaa24f308508e350f4df7bf5c",
+    "/wordaday/index.html": "0594fe3cba806dde5b81fd2b64f45c87e6908fd4",
     "/wordaday/main-es2015.37d5a89d9a775c28acc5.js": "d40c07a64ff6ab400ce8b94dac4d6777c61cf434",
     "/wordaday/main-es5.37d5a89d9a775c28acc5.js": "4149094ef630b9e29ba75e956ef94160fc465075",
     "/wordaday/manifest.webmanifest": "c02395d4880ee2aeb01e065f3033ba3462475fa4",
