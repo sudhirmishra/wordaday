@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1583945633883,
+  "timestamp": 1584116997693,
   "index": "/wordaday/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/wordaday/favicon.ico",
         "/wordaday/index.html",
-        "/wordaday/main-es2015.3011cafa9ee7a2a289fa.js",
-        "/wordaday/main-es5.3011cafa9ee7a2a289fa.js",
+        "/wordaday/main-es2015.f562192504778dd5af71.js",
+        "/wordaday/main-es5.f562192504778dd5af71.js",
         "/wordaday/manifest.webmanifest",
         "/wordaday/polyfills-es2015.442fa3cc45520cc0d518.js",
         "/wordaday/polyfills-es5.fd3af48698f9b02947d9.js",
@@ -42,7 +42,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/wordaday/assets/data.json": "7e73b2abbd4736f28c9b891927a0f88a771d1696",
+    "/wordaday/assets/data.json": "4d220a3ae50e6e5a9e9be33a23d3eba1569e399f",
     "/wordaday/assets/icons/icon-128x128.png": "474d52e1b3ab098c5a9874745a3ff2f75e3b617c",
     "/wordaday/assets/icons/icon-144x144.png": "d6fa566525da8c274d4f80ba33faef651ac907be",
     "/wordaday/assets/icons/icon-152x152.png": "3e04bcc8ef7b98191af7c7fc158843b6e8f8c174",
@@ -52,9 +52,9 @@
     "/wordaday/assets/icons/icon-72x72.png": "0318d2c960668327bd66f2043ca800b7a28be60f",
     "/wordaday/assets/icons/icon-96x96.png": "2cc428be61a088ee96d4718adbd120bb494acb4c",
     "/wordaday/favicon.ico": "7c60c8d274ece52f3c6f28feec313e31d387e411",
-    "/wordaday/index.html": "a0aa06c44f3989245684a5b508c137aecf0c24fa",
-    "/wordaday/main-es2015.3011cafa9ee7a2a289fa.js": "ac12074f50000dea7b800e4befa9dda9ca9d3b64",
-    "/wordaday/main-es5.3011cafa9ee7a2a289fa.js": "62da4cb24243e41ab963b57295b9b09535e1e0b4",
+    "/wordaday/index.html": "b8b8ba284b8973eb468ea5677703ab080eff33b6",
+    "/wordaday/main-es2015.f562192504778dd5af71.js": "764815ab59e0c6832dae7dd4ebf651345423481c",
+    "/wordaday/main-es5.f562192504778dd5af71.js": "4710aadc4a63e67081f321b0f2eb8ffb26692fae",
     "/wordaday/manifest.webmanifest": "c02395d4880ee2aeb01e065f3033ba3462475fa4",
     "/wordaday/polyfills-es2015.442fa3cc45520cc0d518.js": "8779ed8d9bf0580e1b50b352a9b8fd520be24433",
     "/wordaday/polyfills-es5.fd3af48698f9b02947d9.js": "29c3dfd16faa921dd49165f318f9eed12a2f3be7",
